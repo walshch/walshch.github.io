@@ -1,7 +1,5 @@
 head {
   text-align: center;
-  background: url("http://i.imgur.com/q0FaaAk.jpg");
-  background-size: cover;
   background: #1E0096;
   color: #fff;
   font-family: Helvetica;
@@ -14,9 +12,7 @@ p {
 }
 
 body {
-	  text-align: center;
-  background: url("http://i.imgur.com/q0FaaAk.jpg");
-  background-size: cover;
+  text-align: center;
   background: #1E0096;
   color: #fff;
   font-family: Helvetica;
