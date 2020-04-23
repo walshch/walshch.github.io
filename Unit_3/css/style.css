@@ -1,25 +1,5 @@
-head {
-  text-align: center;
-  background: #1E0096;
-  color: #fff;
-  font-family: Helvetica;
-}
-hr {
-  width: 200px;
-}
-p {
-  font-size: 22px;
-}
-
 body {
-  text-align: center;
-  background: #1E0096;
-  color: #fff;
-  font-family: Helvetica;
-}
-hr {
-  width: 200px;
-}
-p {
-  font-size: 18px;
-}
+    background-color: blue;}
+
+h1, p {
+    color: red;}
