@@ -1,9 +1,12 @@
 body {
-    background-color: grey;}
-
-h1, p {
-    color: blue;}
-
-h2, li {
-    color: blue;}
-
+  text-align: center;
+  background: #000;
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
