@@ -2,7 +2,8 @@ body {
   text-align: center;
   background: #1504B3;
   color: #FFF;
-  font-family: Didot;
+  font-size: 22px
+  font-family: 'Special Elite', cursive;
 }
 hr {
   width: 200px;
