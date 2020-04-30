@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+body {
+  text-align: center;
+  background: #1504B3;
+  color: #FFF;
+  font-family: Didot;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
