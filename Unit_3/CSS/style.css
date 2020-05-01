@@ -6,6 +6,12 @@ h1 {
     font-size: 70px
 }
 
+h2 {
+	text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 45px
+}
+
 body {
   background: #1504B3;
   color: #FFF;
