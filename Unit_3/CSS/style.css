@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
 h1 {
 	text-align: center;
-    font-family: 'Mystery Quest', cursive;
-    font-size: 40px
+    font-family: 'Cinzel', serif;
+    font-size: 70px
 }
 
 body {
