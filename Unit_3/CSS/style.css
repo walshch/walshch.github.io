@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
 h1 {
-	text-align: center;
+    text-align: center;
     font-family: 'Cinzel', serif;
     font-size: 70px
 }
 h2 {
-	text-align: center;
+    text-align: center;
     font-family: 'Cinzel', serif;
     font-size: 35px
 }
@@ -14,18 +14,24 @@ h2 {
 h3 {
 	text-align: center;
     font-family: 'Cinzel', serif;
-    font-size: 25px
+    font-size: 10px
 }
 
 body {
-  background: #196A87;
-  color: #FFF;
-  font-size: 22px
-  text-align: center;
+    background: #196A87;
+    color: #FFF;
+    font-size: 22px
+    font-family: 'Cinzel', serif;
+    text-align: center;
 }
 hr {
-  width: 200px;
+    width: 200px;
 }
 p {
-  font-size: 22px;
+   font-size: 22px;
+}
+
+li {
+   font-family: 'Cinzel', serif;
+   font-size: 10px
 }
