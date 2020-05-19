@@ -35,7 +35,7 @@ section
     border: 1px black solid;
     padding: 15px;
     float: left;
-    width: 40%;
+    width: 30%;
 }
 
 #right {
@@ -43,5 +43,5 @@ section
     border: 1px black solid;
     padding: 15px;
     float: right;   
-    width: 40%;
+    width: 62%;
 }
