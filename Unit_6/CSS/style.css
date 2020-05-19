@@ -46,7 +46,7 @@ section
     width: 62%;
 }
 
-.clearfix:after {
+.clearfixafter {
     visibility: hidden;
     display: block;
     font-size: 0;
