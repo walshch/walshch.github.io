@@ -24,6 +24,15 @@ footer {
 
 section
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
@@ -44,13 +53,4 @@ section
     padding: 15px;
     float: right;   
     width: 62%;
-}
-
-.clearfixafter {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
 }
