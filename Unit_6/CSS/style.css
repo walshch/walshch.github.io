@@ -24,7 +24,7 @@ footer {
 
 section
 
-.clearfix:after {
+.clearfix: {
     visibility: hidden;
     display: block;
     font-size: 0;
