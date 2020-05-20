@@ -41,7 +41,7 @@ section .clearfix:after {
 }
 
 #two_column {
-    background-color: white;
+    background-color: black;
     border: 1px black solid;
     padding: 20px;
 }
