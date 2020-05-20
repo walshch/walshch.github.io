@@ -47,17 +47,17 @@ section .clearfix:after {
 }
 
 #left {
-    background-color: violet;
+    background-color: #D9BB7C;
     border: 1px black solid;
     padding: 15px;
     float: left;
-    width: 30%;
+    width: 46%;
 }
 
 #right {
-    background-color: pink;
+    background-color: #D9BB7C;
     border: 1px black solid;
     padding: 15px;
     float: right;   
-    width: 62%;
+    width: 46%;
 }
