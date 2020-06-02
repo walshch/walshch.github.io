@@ -1,3 +1,20 @@
+@import url(https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna);
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+    font-family: 'Tenali+Ramakrishna', cursive;
+    font-size: 1em;
+
+header {
+    padding: 2em;
+    height: 18em;
+    background-image: url(../images/image3.png);
+    background-repeat: no-repeat; 
+    background-position: 1em 8em;
+
+}
+
 header {
     background-color: #2B5475;
     border: 1px black solid;
