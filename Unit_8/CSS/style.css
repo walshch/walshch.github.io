@@ -1,7 +1,7 @@
 header {
     background-color: #2B5475;
     border: 1px black solid;
-    padding: 20%;
+    padding: 5%;
 }
 
 nav {
@@ -44,6 +44,7 @@ section .clearfix:after {
     background-color: black;
     border: 1px black solid;
     padding: 20%;
+    width: 30%;
 }
 
 #left {
