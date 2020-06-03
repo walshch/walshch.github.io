@@ -92,3 +92,17 @@ b {
 u {
     color: #FF6B70;
 }
+
+footer {
+    columns: 2;
+    background-color: #383838;
+    color: white;
+    padding-left: 10em;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding-top: 1em;
+}
+
+#contactinfo {
+    text-align: right;
+}
