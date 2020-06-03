@@ -28,6 +28,13 @@ nav a {
     height: 4em;
 }
 
+#brandtag {
+    font-size: 2em;
+    text-align: center;
+    margin-left: 25em;
+    margin-top: 1em;
+    color: #101252;
+}
 
 header {
     background-color: #2B5475;
