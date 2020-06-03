@@ -126,3 +126,80 @@ main {
     width: 100%;
     height: 5em;
  }
+
+ @media only screen and (max-width: 2000px) {
+.col {
+    max-width: 100%;
+}
+
+@media only screen and (min-width: 1150px) and (max-width: 1320px) {
+
+body {
+    font-size: 0.85em;
+}
+.col {
+    max-width: 100%;
+}
+
+.brandtag {
+    margin-left: 17em;
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1150px) {
+    body {
+    font-size: 0.7em;
+}
+    header {
+    height: 18em;
+}
+.brandtag {
+    margin-left: 17em;
+}
+
+@media only screen and (min-width: 700px) and (max-width: 900px) {
+    body {
+    font-size: 0.6em;
+}
+header {
+    height: 21em;
+}
+
+.brandtag {
+    margin-left: 17em;
+}
+
+@media only screen and (min-width: 560px) and (max-width: 700px) {
+    body {
+    font-size: 0.5em;
+}
+header {
+    height: 23em;
+}
+
+.brandtag {
+    margin-left: 16em;
+}
+
+@media only screen and (min-width: 450px) and (max-width: 560px) {
+    body {
+    font-size: 0.4em;
+}
+header {
+    height: 26em;
+}
+
+.brandtag {
+    margin-left: 15em;
+}
+
+@media only screen and (min-width: 370px) and (max-width: 450px) {
+    body {
+    font-size: 0.3em;
+}
+header {
+    height: 35em;
+}
+
+.brandtag {
+    margin-left: 14em;
+}
