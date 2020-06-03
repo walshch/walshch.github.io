@@ -8,9 +8,8 @@ body {
 }
 
 header {
-    padding: 2em;
-    height: 18em;
-    background-image: url(../images/image3.png);
+    padding: 1em;
+    height: 14em;
     background-repeat: no-repeat; 
     background-position: 1em 8em;
 }
