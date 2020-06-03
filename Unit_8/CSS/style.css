@@ -50,3 +50,26 @@ section {
     margin-top: 1em;
     margin-bottom: 1em;
 }
+
+.col {
+    max-width: 90%;
+}
+
+
+.black {
+    background-color: #383838;
+}
+
+.introservices {
+    padding: 0.5em;
+    font-size: 1.3em;
+    text-align: center;
+    color: white;
+}
+
+#servicestitle {
+    padding: 1em;
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+}
