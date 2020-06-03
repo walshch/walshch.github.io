@@ -119,6 +119,8 @@ main {
     max-width: 100%;
     height: auto;
     vertical-align: sub;
+    color: white;
+    font-size: 2em;
 }
  footer {
     text-align: left;
