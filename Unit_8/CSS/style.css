@@ -131,3 +131,7 @@ main {
     height: auto;
     vertical-align: sub;
 }
+
+ul {
+    text-align: center;   
+}
