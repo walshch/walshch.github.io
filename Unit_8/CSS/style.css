@@ -14,6 +14,7 @@ header {
     background-position: 1em 8em;
 }
 
+
 nav a {
     color: white;
     padding: 1em;
@@ -41,3 +42,11 @@ nav a {
     text-align: center;
     padding-top: 1em;
     color: #556666;
+
+section {
+    padding: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
