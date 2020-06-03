@@ -125,13 +125,4 @@ h1, h2, h3, h4 {
     color: #196CB6;
 }
 
-main {
-    text-align: center;
-    max-width: 100%;
-    height: auto;
-    vertical-align: sub;
-}
 
-li {
-    text-align: center;   
-}
