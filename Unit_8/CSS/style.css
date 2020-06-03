@@ -73,3 +73,20 @@ section {
     text-align: center;
     color: white;
 }
+
+#services {
+    column-count: 3;
+    padding: 1em;
+    line-height: 2em;
+    font-size: 1.3em;
+    margin-left: 13em;
+    color: white;
+}
+
+b {
+    color: #FF6B70;
+}
+
+u {
+    color: #FF6B70;
+}
