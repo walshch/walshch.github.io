@@ -83,12 +83,12 @@ section {
 }
 
 #services {
-    column-count: 2
-    color: white;
-    text-align: center;
+    column-count: 3;
     padding: 1em;
     line-height: 2em;
     font-size: 1.3em;
+    margin-left: 13em;
+    color: white;
 }
 
 b {
