@@ -3,7 +3,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-    font-family: ''Tenali Ramakrishna'', sans-serif;
+    font-family: 'Tenali Ramakrishna', sans-serif;
     font-size: 1em;
     background-color: rgb(255,255,255);
     font-weight: 300;
@@ -116,4 +116,10 @@ footer {
 #logo {
     width: 100px;
     float: left;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    padding: .5em 0;
+    color: #196CB6;
 }
