@@ -113,6 +113,12 @@ body {
     header {
     height: 18em;
 }
+.brandtag {
+    margin-left: 17em;
+}
+}
+
+}
 
 @media only screen and (min-width: 700px) and (max-width: 900px) {
     body {
@@ -120,6 +126,11 @@ body {
 }
 header {
     height: 21em;
+}
+.brandtag {
+    margin-left: 17em;
+}
+
 }
 
 @media only screen and (min-width: 560px) and (max-width: 700px) {
@@ -129,6 +140,10 @@ header {
 header {
     height: 23em;
 }
+.brandtag {
+    margin-left: 16em;
+}
+}
 
 @media only screen and (min-width: 450px) and (max-width: 560px) {
     body {
@@ -137,6 +152,10 @@ header {
 header {
     height: 26em;
 }
+.brandtag {
+    margin-left: 15em;
+}
+}
 
 @media only screen and (min-width: 370px) and (max-width: 450px) {
     body {
@@ -144,4 +163,9 @@ header {
 }
 header {
     height: 35em;
+}
+
+.brandtag {
+    margin-left: 14em;
+}
 }
