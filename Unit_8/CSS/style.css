@@ -131,10 +131,6 @@ header {
 header {
     height: 23em;
 }
-.brandtag {
-    margin-left: 16em;
-}
-}
 
 @media only screen and (min-width: 450px) and (max-width: 560px) {
     body {
