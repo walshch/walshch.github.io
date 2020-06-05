@@ -96,12 +96,24 @@ main {
     height: 5em;
  }
 
- @media only screen and (max-width: 2000px) {
+@media only screen and (max-width: 2000px) {
+.col {
+    max-width: 100%;
+}
 
 @media only screen and (min-width: 1150px) and (max-width: 1320px) {
 
 body {
     font-size: 0.85em;
+}
+
+.col {
+    max-width: 100%;
+}
+}
+
+.brandtag {
+    margin-left: 17em;
 }
 }
 
@@ -112,6 +124,9 @@ body {
     header {
     height: 18em;
 }
+.brandtag {
+    margin-left: 17em;
+}
 }
 
 @media only screen and (min-width: 700px) and (max-width: 900px) {
@@ -120,6 +135,11 @@ body {
 }
 header {
     height: 21em;
+}
+
+.brandtag {
+    margin-left: 17em;
+}
 
 }
 
@@ -129,6 +149,10 @@ header {
 }
 header {
     height: 23em;
+}
+
+.brandtag {
+    margin-left: 16em;
 }
 }
 
